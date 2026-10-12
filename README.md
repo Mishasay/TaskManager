@@ -37,4 +37,5 @@ so they are still there after you close the program.
 - [ ] Unit tests
 
 ## What I learned
-(write 3–4 sentences here in your own words)
+I learned how to design classes and enums in C#, work with collections and lambda expressions, and save data in JSON format. The trickiest part was grasping variable scope—for instance, understanding why a variable declared inside a `try` block isn't accessible outside of it. Moving forward, I plan to add task editing capabilities and a graphical user interface.
+I’ve mastered the fundamentals of C# and plan to continue working with and learning the language. One of the biggest challenges was shifting my mindset away from Python and getting used to a new development environment.
