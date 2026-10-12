@@ -29,6 +29,9 @@ so they are still there after you close the program.
 - `Priority.cs` – priority enum
 - `TaskStorage.cs` – saving and loading tasks
 
+## Program screenshot
+<img width="1194" height="621" alt="image" src="https://github.com/user-attachments/assets/049c68b5-367b-4a5f-b8ec-d26f92e83aa8" />
+
 ## Roadmap
 - [ ] Edit existing tasks (title, priority, deadline)
 - [ ] Sort tasks by deadline and priority
